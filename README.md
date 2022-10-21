@@ -1,5 +1,6 @@
 <h1 align="center"> Explorer Lab #01 </h1>
 
+<h3 align="center">Visualizar o projeto na <a href="https://explorer-lab-mocha.vercel.app/" target="_blank">Vercel</a></h3>
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
